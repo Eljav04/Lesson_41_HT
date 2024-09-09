@@ -1,0 +1,15 @@
+C:\Users\elvin\Desktop\Cybernetics Backend\Lesson_41_HT\Lesson_41_HT\bin\Release\net8.0\Lesson_41_HT.exe
+C:\Users\elvin\Desktop\Cybernetics Backend\Lesson_41_HT\Lesson_41_HT\bin\Release\net8.0\Lesson_41_HT.deps.json
+C:\Users\elvin\Desktop\Cybernetics Backend\Lesson_41_HT\Lesson_41_HT\bin\Release\net8.0\Lesson_41_HT.runtimeconfig.json
+C:\Users\elvin\Desktop\Cybernetics Backend\Lesson_41_HT\Lesson_41_HT\bin\Release\net8.0\Lesson_41_HT.dll
+C:\Users\elvin\Desktop\Cybernetics Backend\Lesson_41_HT\Lesson_41_HT\bin\Release\net8.0\Lesson_41_HT.pdb
+C:\Users\elvin\Desktop\Cybernetics Backend\Lesson_41_HT\Lesson_41_HT\obj\Release\net8.0\Lesson_41_HT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvin\Desktop\Cybernetics Backend\Lesson_41_HT\Lesson_41_HT\obj\Release\net8.0\Lesson_41_HT.AssemblyInfoInputs.cache
+C:\Users\elvin\Desktop\Cybernetics Backend\Lesson_41_HT\Lesson_41_HT\obj\Release\net8.0\Lesson_41_HT.AssemblyInfo.cs
+C:\Users\elvin\Desktop\Cybernetics Backend\Lesson_41_HT\Lesson_41_HT\obj\Release\net8.0\Lesson_41_HT.csproj.CoreCompileInputs.cache
+C:\Users\elvin\Desktop\Cybernetics Backend\Lesson_41_HT\Lesson_41_HT\obj\Release\net8.0\Lesson_41_HT.sourcelink.json
+C:\Users\elvin\Desktop\Cybernetics Backend\Lesson_41_HT\Lesson_41_HT\obj\Release\net8.0\Lesson_41_HT.dll
+C:\Users\elvin\Desktop\Cybernetics Backend\Lesson_41_HT\Lesson_41_HT\obj\Release\net8.0\refint\Lesson_41_HT.dll
+C:\Users\elvin\Desktop\Cybernetics Backend\Lesson_41_HT\Lesson_41_HT\obj\Release\net8.0\Lesson_41_HT.pdb
+C:\Users\elvin\Desktop\Cybernetics Backend\Lesson_41_HT\Lesson_41_HT\obj\Release\net8.0\Lesson_41_HT.genruntimeconfig.cache
+C:\Users\elvin\Desktop\Cybernetics Backend\Lesson_41_HT\Lesson_41_HT\obj\Release\net8.0\ref\Lesson_41_HT.dll
